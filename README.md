@@ -23,10 +23,8 @@ This project sets up a simple monitoring stack using **Docker Compose**.
    - Grafana → `http://localhost:3000`
    - Prometheus → `http://localhost:9090`
 
-## 🧠 Notes
-You can extend this setup to monitor remote servers or Kubernetes nodes by editing `prometheus.yml`.
 
-## 📸 Screenshot
+## Grafana Dashboard
 ![Grafana Dashboard](./assets/screenshot.png)
 
 
